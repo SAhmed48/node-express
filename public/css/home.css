@@ -1,0 +1,5 @@
+.main-header {
+    display: flex;
+    height: 3.5rem;
+    background-color: violet;
+}
