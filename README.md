@@ -1,10 +1,10 @@
 # Node-express Stater
 
-The Project created using nodejs, express and mongodb using mvc architecture to help out those who wants to follow mvc structure for the nodejs project.
+The Project created using nodejs, express and mongodb to help out those who wants to follow mvc structure for the nodejs project.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
