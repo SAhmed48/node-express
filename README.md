@@ -1,4 +1,4 @@
-# Node-express Stater
+# Node-express Starter
 
 The Project created using nodejs, express and mongodb to help out those who wants to follow mvc structure for the nodejs project.
 
