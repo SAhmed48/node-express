@@ -1,8 +1,8 @@
 const mongo = require('mongodb');
 
 // TODO: move it in env file.
-const url = 'mongodb://localhost:27017/sketch_db';
-const _dbName = 'sketch';
+const url = 'mongodb://localhost:27017/test';
+const _dbName = 'test';
 
 const mongoClient = mongo.MongoClient;
 let _db;
